@@ -40,8 +40,9 @@ $abcaaabc=abcaaabc$
 *Welche der folgenden Sprachen sind entscheidbar, welche nicht? Begründen Sie ihre Antworten.*
 
 * (a) {⟨G⟩ | G ist eine Grammatik und L(G) ∈ P}
+*  ist unentscheidbar   (siehe Rice)
 * (b) {⟨G⟩ | G ist eine kontextfreie Grammatik und L(G) ∈ NP}
-
+   ist entscheidbar, da kontextfreie Grammatik entscheidbar ist in NP
 ---
 ## Aufgabe 3:
 *Welche der folgenden Sprachen sind entscheidbar, welche nicht? Begründen Sie ihre Antworten.*

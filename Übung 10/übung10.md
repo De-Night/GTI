@@ -64,6 +64,7 @@ $M_2$ mit $L(M_2)=\Sigma^* $
 
 * *(b) {⟨M,w⟩ | M erreicht bei Eingabe w innerhalb der ersten 42 Schritte den Startzustand ein zweites Mal}*
 
- ist unentscheidbar
+ ist entscheidbar,da endlich viele Schritte
  
 * *(c) {⟨M1,M2⟩ | M1,M2 sind Turingmaschinen und L(M1) ⊆ L(M2)}*
+ ist unentscheidbar
